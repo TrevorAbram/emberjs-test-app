@@ -1,0 +1,13 @@
+{{yield}}
+
+<h2>{{this.title}}</h2>
+
+<div class="card">
+  <ul>
+    {{#each this.people as |person|}}
+      <li {{action "showPerson" person}}>{{person}}</li>
+    {{/each}}
+  </ul>
+</div>
+
+<p>Click on a name to trigger an alert.</p>

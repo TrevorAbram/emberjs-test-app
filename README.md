@@ -1,7 +1,19 @@
 # ember-quickstart
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a very simple Ember app based on the introductory 'Quick Start' lesson.
+I've created a list consisting of programmers and scientists.
+As time goes on, I'll add additional functionality such as:
+- fake data
+- list creation
+- web scraping from NASA
+- web scraping from starred GitHub profiles
+
+* Fork/clone this!
+* Visit your scientists at [http://localhost:4200/scientists](http://localhost:4200/scientists).
+* Visit your scientists at [http://localhost:4200/programmers](http://localhost:4200/scientists).
+
+
+# ember stuff
 
 ## Prerequisites
 
