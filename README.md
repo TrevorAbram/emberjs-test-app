@@ -8,9 +8,9 @@ As time goes on, I'll add additional functionality such as:
 - web scraping from NASA
 - web scraping from starred GitHub profiles
 
-* Fork/clone this!
-* Visit your scientists at [http://localhost:4200/scientists](http://localhost:4200/scientists).
-* Visit your scientists at [http://localhost:4200/programmers](http://localhost:4200/scientists).
+#### Fork/clone this!
+#### Visit your scientists at [http://localhost:4200/scientists](http://localhost:4200/scientists).
+#### Visit your scientists at [http://localhost:4200/programmers](http://localhost:4200/scientists).
 
 
 # ember stuff
